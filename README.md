@@ -73,4 +73,5 @@ Crontab entry (if you chose yes):
 debian13 with vmware workstation 17
 ## License
 
-<!-- Add a LICENSE file (e.g. MIT) and mention it here. -->
+## License
+MIT License. See [LICENSE](LICENSE).
