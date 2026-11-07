@@ -70,9 +70,7 @@ Crontab entry (if you chose yes):
 - Use absolute paths; `~` is not expanded.
 
 ## Tested on
-
-<!-- Fill in, e.g. Ubuntu 22.04 + VMware Workstation 17 -->
-
+debian13 with vmware workstation 17
 ## License
 
 <!-- Add a LICENSE file (e.g. MIT) and mention it here. -->
